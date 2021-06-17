@@ -3,56 +3,50 @@ h2 {
     font-size: 2em;
     text-align: center;
     }
-  h3 { 
+h3 { 
     color: orange;
     text-align: center;
     }
-  h4 { 
+h4 { 
     color: orange;
     }
     
-  body { 
+body { 
     background-color: grey; 
     font-size: 20px;
-  
-  }
+    }
  
-  #meus_dados {color:aqua;
- 
-
- }
- 
-  #perfil_basico { 
+#perfil_basico { 
     background-color: antiquewhite;
     text-align: center;
     }
   
-  #meu_nome {
+#meu_nome {
    color: orange;
    text-align: center;
    text-decoration: underline;
    }
 
-  .estilo-lista {
+.estilo-lista {
     color:white;  
     font-weight: bold; 
     font-style: italic;
     line-height: 40px;
     }
 
-  .pictures {
+.pictures {
     
     border-radius:50%;
 
-  }
-  .button {
+    }
+.button {
      color: yellowgreen; 
      text-align: center;
      font-size: 40px;
      text-decoration: none;
      border-radius: 4px;
     
-    }
+      }
   
-  p{
+p{
      font-family: monospace, arial, sans-serif}
