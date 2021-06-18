@@ -37,14 +37,24 @@ body {
 .pictures {
     
     border-radius:50%;
+    position:relative;
+    left: 50%;
 
     }
 .button {
-     color: yellowgreen; 
+     color: yellowgreen;
+     display: inline-block;
+     line-height: 60px; 
+     width: ;
      text-align: center;
+     vertical-align: auto;
      font-size: 40px;
      text-decoration: none;
-     border-radius: 4px;
+     border-radius: 30px;
+     border-color:blue;
+     border-style: solid;
+     padding: 5px
+     
     
       }
 .ombros-de-gigantes {
@@ -52,7 +62,7 @@ body {
     font-weight: bold;
 }
 .paragrafos {
-    width: 800px;
+    width: 80%;
     text-align: ;
 
 }
