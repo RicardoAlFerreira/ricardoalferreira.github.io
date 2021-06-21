@@ -23,7 +23,7 @@ body {
     background-color: grey; 
     font-size: 20px;
     }
-.meu_nome {
+.header {
    color: orange;
    text-align: center;
    text-decoration: underline;
@@ -49,7 +49,7 @@ body {
     line-height: 40px;
     }
 
-.pictures {
+.image1 {
     
     border-radius:50%;
     position:relative;
@@ -58,17 +58,13 @@ body {
     }
 .button {
      color: yellowgreen;
-     display: inline-block;
-     line-height: 60px; 
-     width: ;
-     text-align: center;
-     vertical-align: top;
+     line-height: 40px;
      font-size: 40px;
-     text-decoration: none;
+     text-decoration:none;
      border-radius: 30px;
      border-color:blue;
      border-style: solid;
-     padding: 5px 5px 5px 5px
+     padding: 5px 10px
     
       }
 .ombros-de-gigantes {
