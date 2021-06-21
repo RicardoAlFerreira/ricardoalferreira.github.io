@@ -35,14 +35,12 @@ body {
     max-width: 100%;
     /* margin-left: 75px; */
     }
-.perfil_detalhado {
-
-
-
-}  
-
+.article     {
+    padding: 50px 50px;
+}
 
 .estilo-lista {
+    padding: 70px;
     color:white;  
     font-weight: bold; 
     font-style: italic;
@@ -53,23 +51,35 @@ body {
     
     border-radius:50%;
     position:relative;
-    left: 50%;
+    left: 40%;
 
     }
+
+.nav li     {
+     display: inline;
+     ;
+
+}
 .button {
      color: yellowgreen;
-     line-height: 40px;
-     font-size: 40px;
+     line-height: 100px;
+     font-size: 30px;
      text-decoration:none;
      border-radius: 30px;
      border-color:blue;
      border-style: solid;
-     padding: 5px 10px
+     margin-left: 15%;
+    
     
       }
 .ombros-de-gigantes {
     color:blue;
     font-weight: bold;
+}
+
+.image2 {
+    position: relative;
+    left: 45%;
 }
 
 
